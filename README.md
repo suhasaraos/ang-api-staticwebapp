@@ -1,6 +1,8 @@
 ---
 
-## Static Web App
+## Azure Static Web Apps
+
+[Learn More](https://docs.microsoft.com/en-us/azure/static-web-apps/)
 
 This repository contains an Angular app that uses an Azure Functions api to demonstrate Azure Static Websites capabilities.
 
