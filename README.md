@@ -1,17 +1,8 @@
 ---
-page_type: sample
-languages:
-  - javascript
-  - typescript
-products:
-  - azure functions
-description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
-urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp-api'
----
 
 ## Static Web App
 
-This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
+This repository contains an Angular app that uses an Azure Functions api to demonstrate Azure Static Websites capabilities.
 
 The shopping theme is used throughout the app.
 
@@ -22,10 +13,7 @@ The apps written in the following JavaScript frameworks/libraries:
 | folder          | Description                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------- |
 | **angular-app** | [Sample Angular app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/angular-app)         |
-| **api-starter** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/api-starter) |
-| **react-app**   | [Sample React app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/react-app)             |
-| **svelte-app**  | [Sample Svelte app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/svelte-app)           |
-| **vue-app**     | [Sample Vue app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/vue-app)                 |
+| **api** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/blob/main/api-starter) |
 
 ## Prerequisites
 
@@ -35,9 +23,6 @@ The apps written in the following JavaScript frameworks/libraries:
 - The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
 - The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?WT.mc_id=mslearn_staticwebappapi-github-jopapa) installed
 
-## Problems or Suggestions
-
-[Open an issue here](https://github.com/MicrosoftDocs/mslearn-staticwebapp-api/issues)
 
 ## Resources
 
@@ -67,8 +52,6 @@ The apps written in the following JavaScript frameworks/libraries:
 ### Debugging Resources
 
 - [Debugging Angular in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Debugging React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
-- [Debugging Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?wt.mc_id=mslearn_staticwebappapi-github-jopapa)
 
 ## Contributing
 
